@@ -1,0 +1,28 @@
+h1, h2, h3 {
+  font-family: Lato;
+}
+
+.list {
+    margin: 0;
+    padding: .3rem;
+    background-color: #eee;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+.list > h1,
+.item {
+    margin: .5rem;
+    padding: .3rem;
+    font-size: 1.2rem;
+}
+
+.item {
+    background: right/contain content-box border-box no-repeat white;
+}
+
+.item > h2,
+.item > p {
+    margin: .2rem;
+    font-size: 1rem;
+}
+

@@ -1,0 +1,2 @@
+# tridion-vanilla-example
+ 
